@@ -1,0 +1,35 @@
+/*
+* Sarah Woolley
+*DUe Date
+* Project name and Description
+*/  
+
+/* The Universal Sector*/
+
+*{ margin:0;
+   padding:0;
+
+}
+
+
+/* Body attributes here*/
+
+body{ 
+    width: 94% ;
+    background-color:lightgoldenrodyellow;
+    margin: 15px auto;
+    border: 1px solid blue;
+    text-align: center;
+    padding: 20px
+
+}
+#elephants {
+    border: white;5px;
+    width:50%;
+}
+
+#elephant tusks {
+    border: white;5px;
+    width:100%;
+    
+}
